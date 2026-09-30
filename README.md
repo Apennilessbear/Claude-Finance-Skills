@@ -1,4 +1,4 @@
-# Claude Skills
+# Claude Finance Skills
 
 A collection of free, open skills for [Claude](https://claude.ai), built from real-world accounting and finance work and generalized so anyone can use them.
 
