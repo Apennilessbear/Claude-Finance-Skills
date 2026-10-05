@@ -9,6 +9,7 @@ A skill is a packaged set of instructions that Claude loads automatically when a
 | Skill | What it does |
 |-------|--------------|
 | [Excel Formula Auditing & Error Detection](excel-formula-auditing-error-detection/) | Reviews Excel workbooks for formula errors, hardcoded assumptions, inconsistent formulas, circular references, broken named ranges, and structural problems before they're shared |
+| [Audit Support & SOX Documentation](https://github.com/ryanlane17-web/Claude-Finance-Skills/blob/main/audit-support-sox-documentation) | Builds audit-ready PBC trackers, roll-forwards, lead sheets, RCMs, walkthrough narratives, control testing workpapers, and remediation trackers |
 
 Each skill lives in its own folder with a README, its `SKILL.md` instructions, and a ready-to-upload ZIP file.
 
