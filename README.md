@@ -9,8 +9,11 @@ A skill is a packaged set of instructions that Claude loads automatically when a
 | Skill | What it does |
 |-------|--------------|
 | [Excel Formula Auditing & Error Detection](excel-formula-auditing-error-detection/) | Reviews Excel workbooks for formula errors, hardcoded assumptions, inconsistent formulas, circular references, broken named ranges, and structural problems before they're shared |
-| [Audit Support & SOX Documentation](https://github.com/ryanlane17-web/Claude-Finance-Skills/blob/main/audit-support-sox-documentation) | Builds audit-ready PBC trackers, roll-forwards, lead sheets, RCMs, walkthrough narratives, control testing workpapers, and remediation trackers |
+| [Audit Support & SOX Documentation](audit-support-sox-documentation/) | Builds audit-ready PBC trackers, roll-forwards, lead sheets, RCMs, walkthrough narratives, control testing workpapers, and remediation trackers |
 | [Corporate Accounting in Excel](corporate-accounting-excel/) | An accounting and finance co-pilot for Excel: data analysis, variance and forecast models, leadership-ready charts, reconciliations, close checklists, cash forecasting, revolver and covenant tracking |
+| [Month-End Close Automation](month-end-close-automation/) | Builds close calendars, balance sheet reconciliations, accrual and amortization schedules, subledger-to-GL tie-outs, flux analysis, and an organized close binder |
+| [Management Reporting & Board Deck Prep](management-reporting-board-deck/) | Turns financial detail into executive-ready flash reports, reporting packages, KPI scorecards, variance commentary, and departmental P&Ls |
+| [SAP Data Extraction & Cleanup](sap-data-extraction-cleanup/) | Cleans raw SAP S/4HANA and ECC exports into analysis-ready tables, with movement type, document type, posting key, and field-name references |
 
 Each skill lives in its own folder with a README, its `SKILL.md` instructions, and a ready-to-upload ZIP file.
 
